@@ -1,0 +1,26 @@
+
+body {
+  background-image: url('s3://my-1st-iam-file/1671882435624.jpg');
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+header, footer {
+  background-color: #F5A623;
+  color: #fff;
+  padding: 1em;
+}
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+nav li {
+  display: inline-block;
+  margin-right: 1em;
+}
+section {
+  padding: 2em;
+}
